@@ -29,11 +29,11 @@ This project was completed as a part of [the web developer bootcamp course on Ud
 
 ## Here's some screenshots from the app:
 
-* ### Index Page:
+* ### Index:
 ![](https://github.com/AymanSalah96/RESTfulBlogApp/blob/master/screenshots/Index%20Page.PNG)
 
-* ### Show Post Details Page:
+* ### Show Post Details:
 ![](https://github.com/AymanSalah96/RESTfulBlogApp/blob/master/screenshots/Show%20Post%20Details%20Page.PNG)
 
-* ### Edit Post Page:
+* ### Edit Post:
 ![](https://github.com/AymanSalah96/RESTfulBlogApp/blob/master/screenshots/Edit%20Post%20Page.PNG)
