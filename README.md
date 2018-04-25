@@ -15,13 +15,13 @@ This project was completed as a part of [the web developer bootcamp course on Ud
 | /blogs/:id      | DELETE    | destroy  
 
 
-## Frontend technologies used:
+## Frontend technologies:
 
 * HTML
 * CSS
 * Semantic UI
 
-## Backend technologies used:
+## Backend technologies:
 
 * NodeJS
 * Express
